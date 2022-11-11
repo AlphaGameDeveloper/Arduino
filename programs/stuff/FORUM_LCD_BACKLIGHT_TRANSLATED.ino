@@ -1,3 +1,7 @@
+// This file is a translated copy of a forum post.
+// You can find the original here:
+// https://create.arduino.cc/projecthub/zurrealStudios/lcd-backlight-and-contrast-control-6d3452?f=1
+// I used Google Translate, so there may be some errors in the translation, but you get the idea.
 #include <LiquidCrystal.h>
 
 // integer library
